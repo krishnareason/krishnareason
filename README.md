@@ -1,36 +1,40 @@
-Hi, I'm Krishna Srivastava 👋
+## 👋 Hi, I'm Krishna Srivastava
+
+I'm a third-year Computer Science student with a strong passion for web development. I've learned full-stack web development using the **MERN stack** and love building real-world, impactful projects that integrate AI and modern technologies.
+
+---
+
+### 🚀 Technologies & Tools
+
+- **Languages**: HTML, CSS, JavaScript  
+- **Frameworks & Libraries**: React.js, Node.js, Express.js  
+- **Databases**: MongoDB, Firebase  
+- **Version Control**: Git, GitHub  
+
+---
+
+### 🌟 What I'm Exploring Now
+
+- Integrating **AI into web applications**
+- Advancing React.js frontend architecture
+- Building scalable, real-time full-stack apps
+
+---
+
+💡 I'm always open to collaboration, learning new tools, and taking on meaningful projects!
 
 
-I'm a second-year Computer Science student, passionate about web development and always eager to learn new technologies. Currently diving into the MERN stack and building meaningful, real-world projects using AI and full-stack development.
+## 🧩 Projects
 
-🚀 Technologies & Tools
+### 🔐 Smart CCTV Monitoring & Alert System
+A **real-time CCTV monitoring dashboard** built for power plants. It detects camera status (offline, blurred, or disturbed), triggers alerts, and sends real-time notifications via **email** and **SMS**.  
+**Tech Stack**: MERN, OpenCV.js, Twilio, Socket.IO
 
+### 📈 TrackIn-Trade
+An **AI-powered trading journal** that helps users log trades, analyze performance, and gain actionable insights to improve trading strategies.
 
-Languages: HTML, CSS, JavaScript
-
-Frameworks & Libraries: Node.js, Express.js, React.js
-
-Database: MongoDB, Firebase
-
-Version Control: Git, GitHub
-
-
-🌱 I'm currently learning
-
-
-Full-stack application development with MERN
-
-React.js for frontend UI
-
-AI integration into web applications
-
-
-💡 Projects
-
-
-TrackIn-Trade – An AI-powered trading journal to help log trades, analyze performance, and gain insights.
-
-EcoPoints – AI-powered gamified platform for waste segregation.
+### 🌿 EcoPoints
+A **gamified AI-powered platform** designed to promote proper waste segregation by rewarding users through eco-friendly challenges and a point-based system.
 
 
 📫 How to reach me
