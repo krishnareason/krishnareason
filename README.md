@@ -85,14 +85,14 @@ Here are some of the technologies I'm proficient in:
 <h3 align="center">StoryWeave - AI-Powered Blogging Platform </h3>
 <p>Architected a full-stack application featuring a secure Node.js/Express RESTful API and a PostgreSQL database (Sequelize ORM). Integrated OpenRouter API to build AI-powered writing assistants for generating titles, summaries, and SEO tags. Built a responsive frontend with Next.js and TypeScript, using TipTap editor for a seamless writing experience.</p>
 <p align="center">
-  <a href="[LINK_TO_REPO]" style="margin-right: 10px;">GitHub Repo</a>
+  
 </p>
 </td>
 <td width="50%">
 <h3 align="center">Smart CCTV Monitoring System (Internship Project) </h3>
 <p>Developed at Tata Power, this system tracks the real-time status of CCTV cameras. The dashboard, built with React, TypeScript, and Tailwind CSS, shows live stats.Backend logic in Node.js pings cameras and integrates Twilio/Gmail API to send instant alerts when a camera goes offline.</p>
 <p align="center">
-  <a href="[LINK_TO_REPO]" style="margin-right: 10px;">GitHub Repo</a>
+  
 </p>
 </td>
 </tr>
