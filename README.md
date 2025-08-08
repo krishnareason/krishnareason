@@ -57,7 +57,6 @@ Here are some of the technologies I'm proficient in:
       • PostgreSQL  <br>
       • MySQL  <br>
       • MongoDB  <br>
-      • SQL 
     </td>
     <td>
       • JavaScript  <br>
