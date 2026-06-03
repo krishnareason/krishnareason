@@ -121,7 +121,4 @@ I'm a B.Tech Computer Science student at Heritage Institute of Technology, Kolka
 - **Member, Google Developer Group (GDG) HITK:** Active participant in technical code reviews, collaborative software engineering initiatives, and exploring modern API frameworks.
 - **Campus Ambassador, Techniche (IIT Guwahati):** Spearheaded campus outreach by organizing hands-on technical workshops and coding seminars, driving record student participation for the national-level fest.
 
-<br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnareason&show_icons=true&theme=radical" alt="Krishna's GitHub Stats" />
-</p>
+
